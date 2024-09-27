@@ -8,4 +8,6 @@ The sphero bolt has three sensors, it has a light, sound and crash sensor. My fa
 # September 17, 2024
 This is a free week.
 # September 20, 2024
-Today i tried the acitvity were you hacve to code in order tofeed some fish. While im normally not used to working with python i really did likw the activity.
+Today i tried the acitvity were you have to code in order tofeed some fish. While im normally not used to working with python i really did likw the activity.
+# September 27, 2024
+For coding following instructions is extremly important. Sincew coding usesd a lot of words and codes if you mess up even one digit you can make anythinmg that you are working on go down the drain. If you commit a small error it can completly change up the whole code and project you would be workign on.
