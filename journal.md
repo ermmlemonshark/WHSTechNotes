@@ -11,3 +11,5 @@ This is a free week.
 Today i tried the acitvity were you have to code in order tofeed some fish. While im normally not used to working with python i really did likw the activity.
 # September 27, 2024
 For coding following instructions is extremely important. Since coding usesd a lot of words and codes if you mess up even one digit you can mess up completely ur whole code. If you commit a small error it can completly change up the whole code and project you would be working on.
+# October 1, 2024
+One of the dailys activities i do where computer science is involved is when i do assignments in my computer. I normally dont really play minevraft but playing minecraft does require a bit of coding from time to time and thats an example of computer science aswell.
