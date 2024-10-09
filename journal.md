@@ -13,3 +13,5 @@ Today i tried the acitvity were you have to code in order tofeed some fish. Whil
 For coding following instructions is extremely important. Since coding usesd a lot of words and codes if you mess up even one digit you can mess up completely ur whole code. If you commit a small error it can completly change up the whole code and project you would be working on.
 # October 1, 2024
 One of the dailys activities i do where computer science is involved is when i do assignments in my computer. I normally dont really play minevraft but playing minecraft does require a bit of coding from time to time and thats an example of computer science aswell.
+# October 9, 202
+There are plenty of jobs that involve coputer science but for me personally there are two careers i am moe interested in are wed developer and video game developer. I do plan to be in ths carer path for the next two years. I am mostly more interested in being a video game developer since i do think i would find myself enjoying it.
