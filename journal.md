@@ -33,3 +33,5 @@ While AI is not my favorite thing it is something that keeps on developing the m
 The meaning of brain rot to me is a series of words or phrases that have gotten popularizee by teenagers and young adults. In the past years technology has been advancing and so has its users, teenagers grab slang and transform it into domething with a different meanin and that is what most brain rot phrases are. While some peopel may wanna look deeper into these brain rot words there isnt much more to look into their just words that teenagers say as a joke and really have no deeper meaning than that. Ex: "skibidi toilet got into a fight with livvy dunne and baby gronk joined in but the rizzler showed up and blew thwm away with his balkan sigma rage german stare"
 # December 16, 2024
 Yes! i am very ecxited for winter break i just want to sleep :3
+# January 8, 2025
+What i liked most about the class last year was the fun programms that we used and overasll the whole class was really fun. However i would like to improve on the speed in which i type and i would also like top lean more about python. The only thing i really want a certification on would be python.
