@@ -39,3 +39,10 @@ What i liked most about the class last year was the fun programms that we used a
 I think that the investement that many tech companies are making towards AI will lead to a lot of people losing their jobs. I think that thw the only thing that AI will enhance is the probability of people without jobs. If i hads a carrer in the tech world id probably get another job or havew AI banned in the work place.
 # January 22, 2025
 I think that this government intervation was really ad because it didnt need to happen. Mostn of the reasons the government said for wanting to ban the appp arent even good reasons. Comapies like tikTok can adress concerens in a more calm way and direct. The users need to be asdsured that this company isnt taking their data but at the same time that is what every app does. one feature policy that i would implement is the ability to stop ads from popping up as much, like with pinterest addsn for tiktok shop are everywhere and it can get a bit annoying. I can take what happened to tiktopk and learn more about how apps opperate and learn  bit more about it. Also  need to get actual hobbies since i was so bored without it. 
+# January 27, 2025
+| Name     | Car | Mistake
+| ---------| --- |---------- |
+| Jimmy		 |Honda |Drilled oil tank
+| Kayla		 |Sierra|Fixed Wrong problem
+| Bart		 |Toyota|
+| Harrison |Forester|Left oil cap off     
