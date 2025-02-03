@@ -46,3 +46,6 @@ I think that this government intervation was really ad because it didnt need to 
 | Kayla		 |Sierra|Fixed Wrong problem
 | Bart		 |Toyota|Left stains on carpet
 | Harrison |Forester|Left oil cap off     
+# February 3, 2025
+I personally think that maybe if there was a bit more of infromatiuon for the pilots that they wpould also be more aware of accidents like that when they happen so there isnt any traffic. I personally think that there is alredy a lot of methods that ensure the safety of the passangers and the pilots, there could be a better made system to alert the pilots that there are objects flying near their area. Computer scienve=ce is actually greatly involved with airplanes. Because of the way that computer algorithms manage air trafic computer science and coding has becomed a huge thing when managing it. Cybersecurity is also a huge thing in airport softwares because if the big screens are hacked people may get lost and the flights may be delayed.  
+While computer science is not as heard of in the flying career it is a huge component of it that really cpontributes to it. The amount of things that are computer science related in this field arent talked about as much but that doesnt make it any less impoirtanr and actually intensefies the safety of peopel/
