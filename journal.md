@@ -51,3 +51,5 @@ I personally think that maybe if there was a bit more of infromatiuon for the pi
 While computer science is not as heard of in the flying career it is a huge component of it that really cpontributes to it. The amount of things that are computer science related in this field arent talked about as much but that doesnt make it any less impoirtanr and actually intensefies the safety of peopel/
 # February 11, 2025
 I would make my app use features that analyze players data and their statistics acuretly. I would use data bases and lists to make this posssible. Since a lot of coaches alredy use analytics this should be easy to figure out. I would make sure the algorhytims would show playewrs what they needed to get better at and show the managers what needed to be done. The analytics and data would be seen in a venn diagram.
+# February 18, 2025
+Somethig new that i learned last week is that you can use buttons for headbands, clothes, accesories, and you can collect them aswell. i need to make my button collection bigger so i can use them for more things.
