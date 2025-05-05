@@ -73,3 +73,5 @@ I personally think that laws like these are detrimental and actually put more ki
 | Sally     | chocolate | Graduation     | $35:00 |
 | Michael   | vanilla   |	Farewell party | $37:00 |
 | Emma      | carrot    | Birthday       | $39:00 |          |
+# May 5, 2025
+I think that if the 100 men vs 1 gorilla was attempted the men would win. Obviously if no stragedies were used the gorilla would win but if every individual had a stragedy i think itb is possible for the gorilla to be defeated.However i dont 6think thid id the safest challenge or the most responsible since there would be lives being risked for the sake of enterntainment really. Gorillas are incredibly strong and smart aswell so really theres more people risking their life. There could be a more analyzed side of this but i dont think we should look that deep into it, me personally i think they should host it in a coloseum like in roman times.
